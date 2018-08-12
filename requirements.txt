@@ -1,4 +1,4 @@
-matplotlib==2.2.2
-numpy==1.15.0rc2+mkl
-tensorflow==1.8.0
+tensorflow==1.9.0
 Keras==2.2.2
+Flask==1.0.2
+Flask_RESTful==0.3.6
